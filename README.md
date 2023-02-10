@@ -1,4 +1,4 @@
-# FSJS Project 7: Interior landing page
+# FSJS Project 10: Interior design landing page
 
 
 ![Tech](https://img.shields.io/badge/HTML-CSS-blue)
