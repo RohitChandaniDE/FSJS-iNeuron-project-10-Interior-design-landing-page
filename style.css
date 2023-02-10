@@ -1,0 +1,185 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Red Rose", cursive;
+  }
+  
+  /* ------------------------------ */
+  /* ---------- NAVBAR ------------ */
+  /* ------------------------------ */
+  
+  body{
+        background-position: center;
+        background-size: cover;
+        height: 100vh;
+        background-image: url(./images/background-4c1b4e1f-002e-4a63-8e25-23135b099b89.jpg);
+        background-color: #fff;
+        }
+
+  .navbar {
+    margin-left: 80px;
+    margin-top: 80px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+
+  .logo {
+    color: #fff;
+    font-size: 40px;
+    font-family: sans-serif;
+  }
+
+  .items {
+    display: flex;
+    flex-direction: row;
+    color: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    list-style-type: none;
+    gap: 60px;
+    margin-left: 225px;
+  }
+
+  .phone-image {
+    height: 50px;
+    margin-top: 10px;
+  }
+
+  .phonecall {
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    font-size: 25px;
+    margin-top: -10px;
+  }
+
+  .phonecall h3 {
+    color: #fff;
+    font-family: sans-serif;
+    margin-right: 40px;
+  }
+  
+  .bottom {
+    margin-left: 80px;
+  }
+
+ .design {
+   font-size: 95px;
+   color: #fff;
+   font-family: Serif;
+   margin-top: 140px;
+   line-height: 120px;
+   margin-left: 50px;
+ }
+
+ .button {
+  margin: 40px;
+  color: #fff;
+  border: 4px;
+  border-color: #fff;
+  border-style: solid;
+  padding: 30px 70px;
+  font-size: 30px;
+  font-family: sans-serif;
+  border-radius: 50px;
+  margin-top: 130px;
+  background-color: transparent;
+ }
+
+ .puzzelimage {
+  height: 50px;
+  margin-bottom: 20px;
+  background-color: #fff;
+  padding: 10px 40px;
+  border-radius: 50px;
+  margin-left: 30px;
+  margin-top: 25px;
+ }
+
+ .puzzle h2 {
+  font-size: 20px;
+  font-family: sans-serif;
+  color: #fff;
+  margin-left: 35px;
+ }
+
+ .middle {
+  margin-left: 1340px;
+  margin-top: -550px;
+  width: 350px;
+  height: 170px;
+  background: rgba(244, 240, 240, 0.24);
+  backdrop-filter: blur(1px);
+ }
+
+ .bulb-image {
+  height: 50px;
+  margin-bottom: 20px;
+  background-color: #fff;
+  padding: 10px 40px;
+  border-radius: 50px;
+  margin-left: 30px;
+  margin-top: 25px;
+ }
+
+ .bulb h4 {
+  font-size: 20px;
+  font-family: sans-serif;
+  color: #fff;
+  margin-left: 32px;
+ }
+
+ .right {
+  margin-left: 1000px;
+  margin-top:290px;
+  width: 360px;
+  height: 210px;
+  background: rgba(244, 240, 240, 0.24);
+  backdrop-filter: blur(1px);
+ }
+
+ .line {
+  border-left: 2.5px solid #fff;
+  height: 100px;
+  margin-top: 24px;
+  margin-left: 250px;
+ }
+
+ .circle {
+  height: 25px;
+  width: 25px;
+  background-color: #fff;
+  border-radius: 50%;
+  display: inline-block;
+  margin-left: 238.5px;
+  margin-top: -10px;
+ }
+
+ .line1 {
+  border-left: 2.5px solid #fff;
+  height: 100px;
+  margin-top: -120px;
+  margin-left: 409px;
+  transform: rotate(90deg);
+ }
+
+ .circle1 {
+  height: 25px;
+  width: 25px;
+  background-color: #fff;
+  border-radius: 50%;
+  display: inline-block;
+  margin-left: 455px;
+  position: relative;
+  bottom: 30%;
+  }
+
+  .line2 {
+    border-left: 2px solid #fff;
+    height: 1300px;
+    margin-top: -1210px;
+    margin-left: -10px;
+    transform: rotate(90deg);
+  }
