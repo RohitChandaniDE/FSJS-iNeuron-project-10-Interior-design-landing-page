@@ -138,7 +138,7 @@
 
  .right {
   margin-left: 720px;
-  margin-top:290px;
+  margin-top:250px;
   width: 360px;
   height: 210px;
   background: rgba(244, 240, 240, 0.24);
@@ -184,7 +184,7 @@
   .line2 {
     border-left: 2px solid #fff;
     height: 970px;
-    margin-top: -1060px;
+    margin-top: -1020px;
     margin-left: 30px;
     transform: rotate(90deg);
   }
