@@ -15,6 +15,8 @@
         height: 100vh;
         background-image: url(./images/background-4c1b4e1f-002e-4a63-8e25-23135b099b89.jpg);
         background-color: #fff;
+        max-width: 90rem;
+        margin: auto;
         }
 
   .navbar {
@@ -27,8 +29,9 @@
 
   .logo {
     color: #fff;
-    font-size: 40px;
+    font-size: 35px;
     font-family: sans-serif;
+    padding-top: 10px;
   }
 
   .items {
@@ -36,14 +39,15 @@
     flex-direction: row;
     color: #fff;
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 30px;
+    font-size: 20px;
+    font:bold;
     list-style-type: none;
     gap: 60px;
-    margin-left: 225px;
+    margin-left: 200px;
   }
 
   .phone-image {
-    height: 50px;
+    height: 35px;
     margin-top: 10px;
   }
 
@@ -51,7 +55,7 @@
     display: flex;
     flex-direction: row;
     gap: 20px;
-    font-size: 25px;
+    font-size: 20px;
     margin-top: -10px;
   }
 
@@ -66,7 +70,7 @@
   }
 
  .design {
-   font-size: 95px;
+   font-size: 75px;
    color: #fff;
    font-family: Serif;
    margin-top: 140px;
@@ -80,11 +84,12 @@
   border: 4px;
   border-color: #fff;
   border-style: solid;
-  padding: 30px 70px;
-  font-size: 30px;
+  padding: 25px 65px;
+  font-size: 25px;
   font-family: sans-serif;
   border-radius: 50px;
-  margin-top: 130px;
+  margin-top: 100px;
+  font: bold;
   background-color: transparent;
  }
 
@@ -106,8 +111,8 @@
  }
 
  .middle {
-  margin-left: 1340px;
-  margin-top: -550px;
+  margin-left: 1040px;
+  margin-top: -500px;
   width: 350px;
   height: 170px;
   background: rgba(244, 240, 240, 0.24);
@@ -132,7 +137,7 @@
  }
 
  .right {
-  margin-left: 1000px;
+  margin-left: 720px;
   margin-top:290px;
   width: 360px;
   height: 210px;
@@ -178,8 +183,8 @@
 
   .line2 {
     border-left: 2px solid #fff;
-    height: 1300px;
-    margin-top: -1210px;
-    margin-left: -10px;
+    height: 970px;
+    margin-top: -1060px;
+    margin-left: 30px;
     transform: rotate(90deg);
   }
