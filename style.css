@@ -188,3 +188,237 @@
     margin-left: 30px;
     transform: rotate(90deg);
   }
+
+  /* Responsive design */
+
+  @media screen and (max-width: 1400px) {
+    
+    .design {
+      font-size: 55px;
+      line-height: 70px;
+      }
+     
+    .button {
+        padding: 20px 55px;
+        font-size: 15px;
+        margin-top: 60px;
+      }
+
+    .middle {
+        margin-left: 800px;
+        margin-top: -400px;
+      }
+
+    .right {
+        margin-left: 520px;
+        margin-top:200px;
+       }
+    
+       
+    .line2 {
+        border-left: 2px solid #fff;
+        height: 950px;
+        margin-top: -700px;
+        margin-left: -20px;
+        padding-left: 750px;
+      }
+  }
+
+  @media screen and (max-width: 1350px) {
+    
+    .items {
+      font-size: 15px;
+      gap: 20px;
+      margin-left: 130px;
+    }
+
+    .phonecall {
+      margin-top: -10px;
+    }
+  
+    .phonecall h3 {
+      font-size: 15px;
+    }
+
+    .phone-image {
+      height: 25px;
+      margin-top: 10px;
+    }
+
+    .design {
+      font-size: 45px;
+      line-height: 70px;
+      }
+     
+    .button {
+        padding: 18px 50px;
+        font-size: 12px;
+        margin-top: 60px;
+      }
+
+    .middle {
+        margin-left: 640px;
+        margin-top: -350px;
+      }
+
+    .right {
+        margin-left: 380px;
+        margin-top: 150px;
+       }
+       
+    .line2 {
+      height: 620px;
+      margin-top: -530px;
+      margin-left: -85px;
+    }
+  }
+
+  @media screen and (max-width: 990px) {
+    
+    .items {
+      font-size: 9px;
+      gap: 20px;
+      margin-left: 100px;
+      margin-right: 20px;  
+     }
+
+    .phonecall {
+      margin-top: -10px;
+    }
+  
+    .phonecall h3 {
+      font-size: 10px;
+      margin-top: 10px;
+    }
+
+    .phone-image {
+      height: 23px;
+      margin-top: 10px;
+      margin-left: 5px;
+    }
+
+    .design {
+      font-size: 30px;
+      line-height: 45px;
+      }
+     
+    .button {
+        padding: 15px 40px;
+        font-size: 10px;
+        margin-top: 40px;
+      }
+
+    .middle {
+        margin-left: 500px;
+        margin-top: -250px;
+        width: 280px;
+        height: 150px;
+      }
+
+      .line {
+        height: 80px;
+        margin-top: 25.5px;
+        margin-left: 200px;
+       }
+      
+       .circle {
+        height: 20px;
+        width: 20px;
+        margin-left: 191px;
+       }
+
+    .right {
+        margin-left: 280px;
+        margin-top: 150px;
+        width: 260px;
+        height: 170px;
+       }
+       
+      
+    .line2 {
+      height: 520px;
+      margin-top: -440px;
+      margin-left: -115px;
+    }
+
+    .puzzelimage {
+      height: 40px;
+      padding: 10px 20px;
+    }
+    
+     .puzzle h2 {
+      font-size: 15px;
+      margin-left: 35px;
+     }
+
+     .bulb-image {
+      height: 40px;
+      padding: 10px 20px;
+     }
+    
+     .bulb h4 {
+      font-size: 15px;
+      margin-left: 35px;
+     }
+
+     .line1 {
+      height: 85px;
+      margin-top: -120px;
+      margin-left: 301px;
+     }
+    
+     .circle1 {
+      height: 20px;
+        width: 20px;
+      margin-left: 340px;
+      margin-top: -00px;
+      }
+  }
+
+  @media screen and (max-width: 755px) {
+      
+    .line2 {
+      display: none;
+    }
+
+    .items {
+      display: none;
+     }
+
+    .logo {
+      font-size: 18px;
+      margin-top: -25px;
+      }
+
+    .flex {
+     display: flex;
+     flex-direction: column-reverse;
+     justify-content: center;
+     align-items: center;
+    }
+
+    .flex-not-imp {
+      margin-top: 300px;
+      margin-right: 150px;
+    }
+
+    .design {
+      font-size: 18px;
+      margin-right: 100px;
+      }
+     
+    .button {
+        margin-left: 70px;
+        padding: 10px 30px;
+        font-size: 8px;
+      }
+
+   .right {
+        margin-left: 150px;
+       }
+
+   .middle {
+        margin-left: 250px;
+       
+      }
+  }
